@@ -1,0 +1,10 @@
+)LOAD ./primes.apl
+)OFF
+)LOAD ./primes.apl
+)LOAD
+)OFF
+)LOAD ./primes.apl
+primes 300
+)OFF
+primes 300
+)OFF
